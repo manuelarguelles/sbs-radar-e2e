@@ -1,0 +1,12 @@
+**/__pycache__/
+**/.venv/
+**/node_modules/
+.env
+.env.*
+**/foquito-key.js
+**/*.pem
+**/*.sqlite
+**/deployment/state/
+**/*-authorization.json
+**/.terraform/
+**/*.tfstate*
